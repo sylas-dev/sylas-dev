@@ -1,5 +1,5 @@
-
-```
+  
+```js
 class Sylas {
   constructor() {
     this.focus = ["Frontend", "Next.js"];
